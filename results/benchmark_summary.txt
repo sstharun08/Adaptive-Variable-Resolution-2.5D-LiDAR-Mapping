@@ -1,0 +1,14 @@
+SIH26053 FINAL LiDAR BENCHMARK
+============================================================
+
+Frames tested: 10
+Total LiDAR points: 1,235,429
+Average points/frame: 123,543
+Average fixed cells: 63,323
+Average adaptive cells: 46,778
+Average representation reduction: 26.13%
+Average fine cells: 24,790
+Average medium cells: 15,232
+Average coarse cells: 6,757
+Average processing time: 590.02 ms/frame
+Average peak memory: 14.02 MB
