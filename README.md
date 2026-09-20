@@ -4,6 +4,11 @@
 
 A Python prototype for representing automotive LiDAR point clouds using an adaptive variable-resolution 2.5D map.
 
+## 3D Visualization
+
+![Adaptive 2.5D Terrain Map — 3D Visualization](demo/adaptive_2_5d_terrain_map_3d.png)
+
+*Adaptive 2.5D terrain map — 3D visualization of the processed LiDAR representation.*
 
 
 The project changes the spatial resolution according to the distance of LiDAR points from the sensor. Nearby regions are represented using finer cells, while farther regions use larger cells. The goal is to reduce the number of spatial cells required while retaining elevation information.
